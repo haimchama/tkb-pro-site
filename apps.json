@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "zen-room",
+    "name": "Zen Room",
+    "pitch": "Tidy cozy rooms at your own pace. Calm, no accounts, optional video bonuses.",
+    "icon": "/assets/zen-room/icon-192.webp",
+    "platforms": ["Android"],
+    "status": "coming-soon",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/zen-room/",
+    "privacy": "/zen-room/privacy/",
+    "accent": "#335C5E"
+  }
+]
