@@ -11,5 +11,18 @@
     "page": "/zen-room/",
     "privacy": "/zen-room/privacy/",
     "accent": "#335C5E"
+  },
+  {
+    "slug": "painting-and-learning",
+    "name": "Paint & Learn",
+    "pitch": "Coloring and learning games for kids. No ads, no accounts.",
+    "icon": "/assets/painting-and-learning/icon-192.webp",
+    "platforms": ["Android"],
+    "status": "coming-soon",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/painting-and-learning/",
+    "privacy": "/painting-and-learning/privacy/",
+    "accent": "#9333EA"
   }
 ]
