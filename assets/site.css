@@ -89,6 +89,7 @@ a.play-soon:hover{background:#000;color:#fff}
 .feat p{margin:0;color:var(--navy-soft)}
 .shots{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 16px 22px;margin-inline:-16px;scroll-padding-inline:16px;-webkit-overflow-scrolling:touch}
 .shots img{flex:none;width:min(62vw,270px);aspect-ratio:9/16;object-fit:cover;border-radius:22px;scroll-snap-align:start;border:2px solid var(--line);background:#fff}
+.shots.wide img{width:min(84vw,520px);aspect-ratio:16/9}
 .shots:focus-visible{outline-offset:-3px}
 .note{background:#fff;border:2px dashed var(--line);border-radius:var(--r);padding:20px 24px}
 
