@@ -32,7 +32,7 @@ assets/zen-room/      אייקון, feature graphic, צילומי מסך
    }
    ```
    בזמן בדיקה ב-Google Play: `status` = `"testing"` ו-`testUrl` עם קישור ההצטרפות לבדיקה (הכרטיס יציג "In testing on Google Play"),
-   ובעמוד האפליקציה הכפתור הוא `<a class="play-soon" href="קישור הבדיקה">` עם הטקסט "Join the test on" ושורת `.test-note` מתחתיו.
+   ובעמוד האפליקציה הכפתור הוא `<a class="play-soon" href="קישור הבדיקה">` עם הטקסט "Join the test on".
    כשהאפליקציה עולה לאוויר: שנו `status` ל-`"live"` (הכרטיס יציג "Available now"), מלאו `playUrl`/`appStoreUrl`,
    ובעמוד האפליקציה החליפו את תג ה-"Coming soon" (`.play-soon`) בקישור `<a class="play-soon" href="...">`.
 4. הוסיפו את הכתובות החדשות ל-`sitemap.xml`.
