@@ -11,8 +11,8 @@
       head.appendChild(img); head.appendChild(el('h3',null,a.name));
       var chips=el('div','chips');
       (a.platforms||[]).forEach(function(p){chips.appendChild(el('span','chip',p));});
-      var live=a.status==='live';
-      var st=el('span','chip '+(live?'live':'status'), live?'Available now':'Coming soon to Google Play');
+      var live=a.status==='live', testing=a.status==='testing';
+      var st=el('span','chip '+(live?'live':'status'), live?'Available now':testing?'In testing on Google Play':'Coming soon to Google Play');
       chips.appendChild(st);
       card.appendChild(head); card.appendChild(el('p',null,a.pitch)); card.appendChild(chips);
       grid.appendChild(card);
