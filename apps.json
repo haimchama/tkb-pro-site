@@ -26,5 +26,18 @@
     "page": "/painting-and-learning/",
     "privacy": "/painting-and-learning/privacy/",
     "accent": "#9333EA"
+  },
+  {
+    "slug": "garage-master",
+    "name": "Garage Master",
+    "pitch": "Find the fault, pick the tool, fix the car. No ads, no accounts.",
+    "icon": "/assets/garage-master/icon-192.webp",
+    "platforms": ["Android"],
+    "status": "coming-soon",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/garage-master/",
+    "privacy": "/garage-master/privacy/",
+    "accent": "#0F3D8A"
   }
 ]
