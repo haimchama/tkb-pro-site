@@ -39,5 +39,18 @@
     "page": "/garage-master/",
     "privacy": "/garage-master/privacy/",
     "accent": "#0F3D8A"
+  },
+  {
+    "slug": "tolktik",
+    "name": "TolkTik",
+    "pitch": "Chat that gets things done: tasks, reminders for each other and walkie-talkie. No ads.",
+    "icon": "/assets/tolktik/icon-192.webp",
+    "platforms": ["Android"],
+    "status": "coming-soon",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/tolktik/",
+    "privacy": "/tolktik/privacy/",
+    "accent": "#4B1FB8"
   }
 ]
