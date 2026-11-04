@@ -18,6 +18,6 @@
       grid.appendChild(card);
       if(foot&&a.privacy){var li=el('li'),l=el('a',null,a.name+' privacy policy'); l.href=a.privacy; li.appendChild(l); foot.appendChild(li);}
     });
-    grid.appendChild(el('div','card next','Next game: in the workshop'));
+    grid.appendChild(el('div','card next','Next app: in the workshop'));
   }).catch(function(){grid.innerHTML='<p>Could not load the app list. <a href="/zen-room/">Open Zen Room</a>.</p>';});
 })();
