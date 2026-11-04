@@ -108,3 +108,4 @@ a.play-soon:hover{background:#000;color:#fff}
 .px{z-index:0;pointer-events:none}
 @media (max-width:859px){.px{display:none}}
 .about-he{margin-top:22px;padding-top:18px;border-top:1px solid var(--line);font-family:system-ui,"Segoe UI",Arial,sans-serif}
+.app-hero .btn{background:#fff;color:var(--ap);border-color:#fff}.app-hero .btn.alt{background:transparent;color:#fff;border-color:rgba(255,255,255,.65)}

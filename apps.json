@@ -1,10 +1,28 @@
 [
   {
+    "slug": "ogen",
+    "name": "Ogen",
+    "pitch": "The management platform for therapy clinics: diary, patient files, video sessions and messages in one place.",
+    "icon": "/assets/ogen/icon-192.webp",
+    "platforms": [
+      "Web",
+      "Phone"
+    ],
+    "status": "live",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/ogen/",
+    "privacy": "",
+    "accent": "#0C2F37"
+  },
+  {
     "slug": "zen-room",
     "name": "Zen Room",
     "pitch": "Tidy cozy rooms at your own pace. Calm, no accounts, optional video bonuses.",
     "icon": "/assets/zen-room/icon-192.webp",
-    "platforms": ["Android"],
+    "platforms": [
+      "Android"
+    ],
     "status": "testing",
     "testUrl": "https://play.google.com/apps/testing/io.zenroom.app",
     "playUrl": "",
@@ -18,7 +36,9 @@
     "name": "Paint & Learn",
     "pitch": "Coloring and learning games for kids. No ads, no accounts.",
     "icon": "/assets/painting-and-learning/icon-192.webp",
-    "platforms": ["Android"],
+    "platforms": [
+      "Android"
+    ],
     "status": "testing",
     "testUrl": "https://play.google.com/apps/testing/io.paintandlearn.app",
     "playUrl": "",
