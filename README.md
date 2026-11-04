@@ -1,4 +1,4 @@
-# אתר TKB — The Kesher Boys (tkb-pro.com)
+# אתר TKB — Tech Knowledge Base (tkb-pro.com)
 
 אתר סטטי פשוט (HTML/CSS/JS רגילים, בלי build) שמתארח ב-GitHub Pages ומציג את כל האפליקציות של הסטודיו.
 
