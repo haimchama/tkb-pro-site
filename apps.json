@@ -2,18 +2,20 @@
   {
     "slug": "ogen",
     "name": "Ogen",
-    "pitch": "The management platform for therapy clinics: diary, patient files, video sessions and messages in one place.",
+    "pitch": "The platform for therapy clinics: diary, patient files, video sessions and games for patients, in one place.",
     "icon": "/assets/ogen/icon-192.webp",
     "platforms": [
-      "Web",
-      "Phone"
+      "Android",
+      "iPhone",
+      "Web"
     ],
-    "status": "live",
+    "status": "coming-soon",
     "playUrl": "",
     "appStoreUrl": "",
     "page": "/ogen/",
-    "privacy": "",
-    "accent": "#0C2F37"
+    "privacy": "/ogen/privacy/",
+    "accent": "#135469",
+    "testUrl": ""
   },
   {
     "slug": "zen-room",

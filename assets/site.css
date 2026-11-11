@@ -96,7 +96,7 @@ a.play-soon:hover{background:#000;color:#fff}
 /* privacy */
 .doc{background:#fff;border:2px solid var(--line);border-radius:var(--r);padding:8px 24px 28px;margin:24px 0}
 .doc h2{color:var(--teal-deep);margin-top:1.2em}.doc h3{margin:1.5em 0 .3em;color:var(--navy)}
-.doc ul{padding-inline-start:1.3em}.doc li{margin:.3em 0}
+.doc ul,.doc ol{padding-inline-start:1.3em}.doc li{margin:.3em 0}
 .doc .callout{background:#e6f2f5;border-radius:16px;padding:12px 18px;font-weight:700}
 .meta{color:var(--navy-soft);font-size:.95rem}
 .doc-head{padding:12px 0 8px}.doc-head h1{font-size:clamp(2rem,6vw,3rem)}
