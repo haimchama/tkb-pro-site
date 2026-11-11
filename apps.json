@@ -18,6 +18,36 @@
     "testUrl": ""
   },
   {
+    "slug": "yachdav-fit",
+    "name": "Yachdav Fit",
+    "pitch": "A home workout coach for beginners: short workouts, no equipment, and a coach that keeps you going.",
+    "icon": "/assets/yachdav-fit/icon-192.webp",
+    "platforms": [
+      "Android"
+    ],
+    "status": "dev",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/yachdav-fit/",
+    "privacy": "",
+    "accent": "#E8503F"
+  },
+  {
+    "slug": "onep",
+    "name": "ONEP",
+    "pitch": "Everything in one place: chats, calendar, tasks and reminders, with voice notes and a walkie-talkie.",
+    "icon": "/assets/onep/icon-192.webp",
+    "platforms": [
+      "Android"
+    ],
+    "status": "dev",
+    "playUrl": "",
+    "appStoreUrl": "",
+    "page": "/onep/",
+    "privacy": "",
+    "accent": "#5B2A8C"
+  },
+  {
     "slug": "zen-room",
     "name": "Zen Room",
     "pitch": "Tidy cozy rooms at your own pace. Calm, no accounts, optional video bonuses.",
